@@ -26,11 +26,7 @@ Click on the green play button or select "Run" from the menu to build and run th
 
 5. Explore the App:
 Once the build is complete, the app will launch on the emulator or device. You can now explore its features and functionalities.
-## Screenshots
 
-![WhatsApp Image 2024-05-05 at 8 10 04 PM](https://github.com/Deekshit7483/blood-app/assets/58986536/920d3697-ff1b-4a25-9774-22a9d8cddd53)
-![WhatsApp Image 2024-05-05 at 8 10 04 PM (1)](https://github.com/Deekshit7483/blood-app/assets/58986536/5019ab6f-d762-4f2f-94fa-c9a0ccc5eed2)
-![WhatsApp Image 2024-05-05 at 8 10 04 PM (2)](https://github.com/Deekshit7483/blood-app/assets/58986536/c3349394-fe54-4026-9687-5c4e287d0af8)
 ## Features
 
 - Blood bank, admin and user login with email verification
@@ -42,20 +38,4 @@ Once the build is complete, the app will launch on the emulator or device. You c
 - can request for blood sample
 - can add nearby blood bank
 - etc
-
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://deekshith.live/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deekshith-h-r-971a1a1b4)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DeekshithHR_?t=bYcnELIWGI0giupxWOkVKg&s=09)
-
-
-## Authors
-
-- [@Deekshit7483](https://github.com/Deekshit7483/)
-
-
-## Feedback
-
-If you have any feedback, please reach out to us at deekshithhr3729@gmail.com
 
